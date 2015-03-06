@@ -33,15 +33,14 @@ If you want to disable one or more jobs, change the “Enabled” checkbox and p
 
 Sometimes you will have to schedule the job at another time. With standard Salesforce you have to delete the job and recreate it again. You can do it easier with this app. Just navigate to the overview page and click on the Edit link of the job. You will be redirected to the edit page where you can change the hour, the frequency, etc. Make your changes and click the save button.
 
-Read everything via the following link: http://www.absi.be/managing-scheduled-jobs.aspx
+Read everything at the following link: http://www.absi.be/managing-scheduled-jobs.aspx
+
 
 
 Click the below link to deploy it to a production/developer organization <br/><br/>
-
 <a href="https://githubsfdeploy.herokuapp.com?owner=ABSINV&repo=ScheduledJobs">
   <img alt="Deploy to Salesforce"
        src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png">
 </a>
-
 thanks to @afawcett for the deploy to Salesforce button
 http://andyinthecloud.com/2014/09/27/the-new-github-deploy-to-salesforce-tool-button/
